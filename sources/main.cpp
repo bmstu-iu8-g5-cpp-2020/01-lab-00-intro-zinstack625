@@ -1,3 +1,4 @@
+// Copyright 2020 Klimanov Anton
 #include <iostream>
 
 int main() {
